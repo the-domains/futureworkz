@@ -1,0 +1,28 @@
+name: Futureworkz
+favicon: null
+layout_spectrum: 0.443464248906821
+typography_spectrum: 0.39193109585903585
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7142950634006411
+  lightness: 0.4114567986689508
+  saturation: 0.6843542149290442
+  rhythmicContrast: 0.08569112233817577
+purpose: []
